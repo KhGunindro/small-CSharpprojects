@@ -1,0 +1,15 @@
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\RPS.csproj.AssemblyReference.cache
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\RPS.AssemblyInfoInputs.cache
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\RPS.AssemblyInfo.cs
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\RPS.csproj.CoreCompileInputs.cache
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\bin\Debug\net6.0\RPS.exe
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\bin\Debug\net6.0\RPS.deps.json
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\bin\Debug\net6.0\RPS.runtimeconfig.json
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\bin\Debug\net6.0\RPS.dll
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\bin\Debug\net6.0\RPS.pdb
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\RPS.dll
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\refint\RPS.dll
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\RPS.pdb
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\RPS.genruntimeconfig.cache
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\RPS\obj\Debug\net6.0\ref\RPS.dll

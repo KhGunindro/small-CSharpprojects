@@ -1,0 +1,15 @@
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\bin\Debug\net6.0\numberguessgame.exe
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\bin\Debug\net6.0\numberguessgame.deps.json
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\bin\Debug\net6.0\numberguessgame.runtimeconfig.json
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\bin\Debug\net6.0\numberguessgame.dll
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\bin\Debug\net6.0\numberguessgame.pdb
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\numberguessgame.csproj.AssemblyReference.cache
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\numberguessgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\numberguessgame.AssemblyInfoInputs.cache
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\numberguessgame.AssemblyInfo.cs
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\numberguessgame.csproj.CoreCompileInputs.cache
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\numberguessgame.dll
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\refint\numberguessgame.dll
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\numberguessgame.pdb
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\numberguessgame.genruntimeconfig.cache
+C:\Users\gunin\OneDrive\Desktop\development\dotnet\small projects\numberguessgame\obj\Debug\net6.0\ref\numberguessgame.dll
