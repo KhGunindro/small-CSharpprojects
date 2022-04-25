@@ -11,7 +11,8 @@ which is -3
 but if you want to find it upto 5 only store the last element j which is -6 on a temp variable and add it on the sum
 sum= sum+j.
 <br>
-voila you get the sum for odd number of elements in this series: 1-2+3-4+..((n-1))-n)</p>
+<br>
+voila you get the sum for odd number of elements in this series: 1-2+3-4+..((n-1))-n).</p>
 <br>
 <br>
 ~an algorithm by Gunin
