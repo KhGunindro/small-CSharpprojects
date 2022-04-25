@@ -1,4 +1,5 @@
-<h1>The Algorithm Used</h1>
+<h1>Sum of the series 1-2+3-4+5-6+..+n</h1>
+<h2>The Algorithm used</h2>
 <p>I made two conditions:
 If the series is even then the series can be group like this: (1-2)+(3-4)+(5-6)+...+((n-1)-n)
 and if it has odd number of elements it can be grouped like: (1-2)+(3-4)+(5-6)+...+((n-1)+n)+(n+1) 
